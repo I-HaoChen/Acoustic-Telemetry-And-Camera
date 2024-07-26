@@ -1,0 +1,25 @@
+Section A,Section B,Rank,Data Type,Kruskal-Wallis H Statistic (H),DoF,p-value,Significance
+8:00 Feeding,Fasting 1,1,activity,0.8237,1,0.3641,No
+Fasting 1,7:30 and 13:30 Feeding,1,activity,2.31,1,0.1285,No
+7:30 and 13:30 Feeding,Fasting 2,1,activity,0.1196,1,0.7295,No
+Fasting 2,Twilight Feeding,1,activity,0.5378,1,0.4633,No
+8:00 Feeding,Fasting 1,2,activity,0.0802,1,0.777,No
+Fasting 1,7:30 and 13:30 Feeding,2,activity,0.1375,1,0.7108,No
+7:30 and 13:30 Feeding,Fasting 2,2,activity,1.26,1,0.2617,No
+Fasting 2,Twilight Feeding,2,activity,1.32,1,0.2506,No
+8:00 Feeding,Fasting 1,3,activity,1.6998,1,0.1923,No
+Fasting 1,7:30 and 13:30 Feeding,3,activity,3.3993,1,0.0652,No
+7:30 and 13:30 Feeding,Fasting 2,3,activity,0.2404,1,0.6239,No
+Fasting 2,Twilight Feeding,3,activity,1.8436,1,0.1745,No
+8:00 Feeding,Fasting 1,1,speed,1.1861,1,0.2761,No
+Fasting 1,7:30 and 13:30 Feeding,1,speed,4.8167,1,0.0282,Yes
+7:30 and 13:30 Feeding,Fasting 2,1,speed,2.704,1,0.1001,No
+Fasting 2,Twilight Feeding,1,speed,3.1527,1,0.0758,No
+8:00 Feeding,Fasting 1,2,speed,0.0523,1,0.8192,No
+Fasting 1,7:30 and 13:30 Feeding,2,speed,0.2489,1,0.6179,No
+7:30 and 13:30 Feeding,Fasting 2,2,speed,0.0341,1,0.8536,No
+Fasting 2,Twilight Feeding,2,speed,1.8436,1,0.1745,No
+8:00 Feeding,Fasting 1,3,speed,2.3459,1,0.1256,No
+Fasting 1,7:30 and 13:30 Feeding,3,speed,2.94,1,0.0864,No
+7:30 and 13:30 Feeding,Fasting 2,3,speed,0.0602,1,0.8062,No
+Fasting 2,Twilight Feeding,3,speed,2.4545,1,0.1172,No
